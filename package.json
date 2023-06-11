@@ -1,0 +1,15 @@
+{
+    "name": "cit281-p4",
+    "version": "1.0.0",
+    "description": "Project 4",
+    "main": "p4-server.js",
+    "scripts": {
+        "start": "node p4-server.js"
+    },
+    "author": "RJ Hendrix",
+    "license": "MIT",
+    "dependencies": {
+        "fastify": "^3.23.0"
+    }
+
+}
